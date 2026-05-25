@@ -10,7 +10,7 @@
 ---
 
 ### 🧑‍💻 About Me
-Currently working as a **Senior .NET Developer** at [CHI Software](https://chisoftware.com) (Remote). I'm passionate about **Clean Architecture**, **CQRS/DDD**, and building scalable, cloud-native systems.
+Currently working as a **Senior .NET Developer** at [CHI Software](https://chisw.com/) (Remote). I'm passionate about **Clean Architecture**, **CQRS/DDD**, and building scalable, cloud-native systems.
 
 ### 🛠️ Tech Stack
 **Backend:** ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white) <br/>
