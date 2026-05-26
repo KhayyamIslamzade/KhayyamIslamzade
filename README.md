@@ -4,7 +4,7 @@
   
   <a href="https://spin.az" target="_blank"><img src="https://img.shields.io/badge/🏓_spin.az-live_project-0ea5e9?style=flat-square" /></a>
   <a href="mailto:khayyamislamzade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/khayyamislamzade" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/khayyam-islamzade-05b92b162" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
